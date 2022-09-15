@@ -70,7 +70,7 @@ class _LocationInputState extends State<LocationInput> {
     return Column(
       children: [
         Container(
-          height: 170,
+          height: 340,
           width: double.infinity,
           alignment: Alignment.center,
           decoration: BoxDecoration(

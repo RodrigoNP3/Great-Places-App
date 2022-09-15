@@ -81,6 +81,7 @@ dependencies:
 
 <th align="center">Home Screen</th>
   <th align="center">Place Detail</th>
+    <th align="center">Place Detail Map</th>
 
 </tr>
 </thead>

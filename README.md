@@ -1,7 +1,7 @@
 # Great Places App
 
 Hello there.
-This is a simples place picker app developed in flutter.
+This is a simple place picker app developed in flutter.
 This app was developed according to the classes of:
 
 Flutter & Dart - The Complete Guide [2022 Edition] - UDEMY;
